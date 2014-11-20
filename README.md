@@ -1,4 +1,4 @@
 BCAMO
 =====
 
-Personal Project for fun and testing my own programming skills
+Personal Project for fun and applying programming skills to use
