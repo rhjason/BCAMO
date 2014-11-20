@@ -1,0 +1,9 @@
+C:\Users\rhjason\Documents\GitHub\BCAMO\BCAMO\BCAMO\bin\Debug\BCAMO.exe.config
+C:\Users\rhjason\Documents\GitHub\BCAMO\BCAMO\BCAMO\bin\Debug\BCAMO.exe
+C:\Users\rhjason\Documents\GitHub\BCAMO\BCAMO\BCAMO\bin\Debug\BCAMO.pdb
+C:\Users\rhjason\Documents\GitHub\BCAMO\BCAMO\BCAMO\obj\Debug\BCAMO.csprojResolveAssemblyReference.cache
+C:\Users\rhjason\Documents\GitHub\BCAMO\BCAMO\BCAMO\obj\Debug\BCAMO.Form1.resources
+C:\Users\rhjason\Documents\GitHub\BCAMO\BCAMO\BCAMO\obj\Debug\BCAMO.Properties.Resources.resources
+C:\Users\rhjason\Documents\GitHub\BCAMO\BCAMO\BCAMO\obj\Debug\BCAMO.csproj.GenerateResource.Cache
+C:\Users\rhjason\Documents\GitHub\BCAMO\BCAMO\BCAMO\obj\Debug\BCAMO.exe
+C:\Users\rhjason\Documents\GitHub\BCAMO\BCAMO\BCAMO\obj\Debug\BCAMO.pdb
